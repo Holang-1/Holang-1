@@ -11,15 +11,17 @@ I like building things, breaking them, figuring out why they broke, and then pre
 ## 🛠️ Tech Stack
 
 ### Languages
+### Languages
 
-* ☕ Java
-* 🐍 Python
-* 🗃️ SQL
-* 🐧 Bash
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,bash" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
+</p>
 
 ### Backend & Integration
 
-* Spring Boot
+<p> <img src="https://skillicons.dev/icons?i=spring" /> </p>
+
 * Javalin
 * REST APIs
 * JDBC
@@ -30,17 +32,13 @@ I like building things, breaking them, figuring out why they broke, and then pre
 
 ### Databases
 
-* PostgreSQL
-* SQLite
-* MySQL
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
 ### DevOps & Tools
 
-* Git & GitHub
-* GitLab CI/CD
-* Docker
-* Linux
-* IntelliJ IDEA
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,idea" />
+</p>
 
 ---
 
